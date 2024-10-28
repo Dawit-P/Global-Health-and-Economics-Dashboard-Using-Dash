@@ -22,3 +22,22 @@ This **Global Health and Economics Dashboard** is an interactive web application
    ```bash
    git clone https://github.com/Dawit-P/Global-Health-and-Economics-Dashboard-Using-Dash.git
    cd Global-Health-and-Economics-Dashboard-Using-Dash
+
+2. **Install the required libraries**:
+
+   ```bash
+   pip install dash pandas plotly
+
+3. **Run the app**:
+
+   ```bash
+   python app.py
+
+4. **Access the dashboard**: Open http://127.0.0.1:8050 in your web browser.
+   ```bash
+   http://127.0.0.1:8050
+
+Future Improvements
+Data Filtering: Adding more filters such as continent and income groups.
+Expanded Metrics: Including additional global health indicators.
+Enhanced Data Sources: Integrating real-time data from public APIs for up-to-date insights.
