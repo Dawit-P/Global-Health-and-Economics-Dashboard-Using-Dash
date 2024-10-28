@@ -2,6 +2,9 @@
 
 This **Global Health and Economics Dashboard** is an interactive web application developed with **Dash and Plotly** that visualizes key global health and economic indicators, such as population, GDP per capita, and life expectancy, across different countries and years. The dashboard enables users to explore and analyze trends over time, offering valuable insights into how various factors impact the well-being and economic health of nations worldwide.
 
+![image](https://github.com/user-attachments/assets/115e4ed9-cb8c-426f-99a6-e6d1560054bd)
+
+
 ## Features
 
 - **Country and Metric Selection**: Choose any country and analyze various metrics, including population, GDP per capita, and life expectancy.
